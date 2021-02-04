@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "50 most popular nike queries",
+      "tensorShape": [
+        839,
+        128
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/nmakhotkin/stuff/main/vectors.tsv?token=AA746LSOZ4BGD7766345HETADQUEQ",
+      "metadataPath": "https://raw.githubusercontent.com/nmakhotkin/stuff/main/metadata.tsv?token=AA746LSOZ4BGD7766345HETADQUEQ",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/nmakhotkin/stuff/main/sprites.png?token=AA746LSOZ4BGD7766345HETADQUEQ",
+        "singleImageDim": [
+          128,
+          128
+        ]
+      }
+    }
+  ]
+}
