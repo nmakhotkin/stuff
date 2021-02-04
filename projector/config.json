@@ -6,10 +6,10 @@
         839,
         128
       ],
-      "tensorPath": "https://raw.githubusercontent.com/nmakhotkin/stuff/main/vectors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/nmakhotkin/stuff/main/metadata.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/nmakhotkin/stuff/main/projector/vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/nmakhotkin/stuff/main/projector/metadata.tsv",
       "sprite": {
-        "imagePath": "https://raw.githubusercontent.com/nmakhotkin/stuff/main/sprites.png",
+        "imagePath": "https://raw.githubusercontent.com/nmakhotkin/stuff/main/projector/sprites.png",
         "singleImageDim": [
           128,
           128
