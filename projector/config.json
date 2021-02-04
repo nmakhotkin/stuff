@@ -6,7 +6,7 @@
         839,
         128
       ],
-      "tensorPath": "zichttps://raw.githubusercontent.com/nmakhotkin/stuff/main/projector/vectors.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/nmakhotkin/stuff/main/projector/vectors.tsv",
       "metadataPath": "https://raw.githubusercontent.com/nmakhotkin/stuff/main/projector/metadata.tsv",
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/nmakhotkin/stuff/main/projector/sprites.png",
